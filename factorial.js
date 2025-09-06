@@ -1,5 +1,5 @@
 
-import { getFactorial } from "./funciones.js";
+import { getFactorial } from "https://cdn.jsdelivr.net/gh/bcf1208/js@main/funciones.js";
 
 document.addEventListener("DOMContentLoaded",function(){
         
